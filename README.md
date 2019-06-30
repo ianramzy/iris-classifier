@@ -6,3 +6,4 @@
 [![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/iris-classifier)
 
 🔎 Exploratory data analysis and classifier of the iris dataset using various ML models.
+# → https://ianramzy.com/project/iris-classifier.html
